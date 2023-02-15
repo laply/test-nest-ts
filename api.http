@@ -1,0 +1,17 @@
+
+
+GET http://localhost:8800
+
+{}
+###
+
+GET http://localhost:8800/cats
+
+{}
+
+###
+
+GET http://localhost:8800/cats/:id
+
+
+{}
